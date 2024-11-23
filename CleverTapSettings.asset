@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 842aea18ee01b4de6a7c010f99effdbe, type: 3}
   m_Name: CleverTapSettings
   m_EditorClassIdentifier: 
-  CleverTapAccountId: R5K-486-ZW7Z
-  CleverTapAccountToken: 6b4-352
-  CleverTapAccountRegion: 
+  CleverTapAccountId: TEST-RK8-R5Z-6Z7Z
+  CleverTapAccountToken: TEST-152-b32
+  CleverTapAccountRegion: us1
   CleverTapDisableIDFV: 0
